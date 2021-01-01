@@ -11,7 +11,7 @@ Our method adds an additional discriminator increasing the spectral fidelity.
 ## Spectral fidelity without our method
 ![DCGAN](./README/64_DCGAN.png)
 
-## Spectral fidelity with out method
+## Spectral fidelity with our method
 ![SpectralDCGAN](./README/64_DCGAN_Spectral.png)
 
 # Requirements
